@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Nathan Kleyn <nathan@nathankleyn.com>"]
 description = "Experimenting with a toy browser engine."
 license = "MIT OR Apache-2.0"
+documentation = "https://nathankleyn.com/thermite/thermite/"
 repository = "https://github.com/nathankleyn/thermite"
 
 [dependencies]

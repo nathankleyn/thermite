@@ -3,7 +3,7 @@ name = "thermite"
 version = "0.1.0"
 authors = ["Nathan Kleyn <nathan@nathankleyn.com>"]
 description = "Experimenting with a toy browser engine."
-license = "MIT"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/nathankleyn/thermite"
 
 [dependencies]
